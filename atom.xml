@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Heart of Gold]]></title>
+  <link href="http://jups42.de/atom.xml" rel="self"/>
+  <link href="http://jups42.de/"/>
+  <updated>2012-09-05T12:10:09+02:00</updated>
+  <id>http://jups42.de/</id>
+  <author>
+    <name><![CDATA[Willi Müller]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://jups42.de/blog/2012/09/04/hello-world/"/>
+    <updated>2012-09-04T22:11:00+02:00</updated>
+    <id>http://jups42.de/blog/2012/09/04/hello-world</id>
+    <content type="html"><![CDATA[<p>Hello World</p>
+]]></content>
+  </entry>
+  
+</feed>
