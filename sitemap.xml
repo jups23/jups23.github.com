@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://jups42.de/blog/2012/09/04/Setting-up-Octopress-on-Mountain-Lion/</loc>
+        <lastmod>2013-02-21T22:04:32+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://jups42.de/about/</loc>
+        <lastmod>2013-02-21T22:04:32+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://jups42.de/blog/archives/</loc>
+        <lastmod>2013-02-21T22:04:32+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://jups42.de/imprint/</loc>
+        <lastmod>2013-02-21T22:04:32+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://jups42.de/</loc>
+        <lastmod>2013-02-21T22:04:32+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://jups42.de/robots.txt</loc>
+        <lastmod>2013-02-21T22:04:32+01:00</lastmod>
+    </url>
+</urlset>

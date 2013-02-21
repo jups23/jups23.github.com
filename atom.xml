@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Heart of Gold]]></title>
+  <link href="http://jups42.de/atom.xml" rel="self"/>
+  <link href="http://jups42.de/"/>
+  <updated>2013-02-21T22:26:37+01:00</updated>
+  <id>http://jups42.de/</id>
+  <author>
+    <name><![CDATA[Willi Müller]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Setting up Octopress on Mountain Lion]]></title>
+    <link href="http://jups42.de/blog/2012/09/04/Setting-up-Octopress-on-Mountain-Lion/"/>
+    <updated>2012-09-04T22:11:00+02:00</updated>
+    <id>http://jups42.de/blog/2012/09/04/Setting-up-Octopress-on-Mountain-Lion</id>
+    <content type="html"><![CDATA[<p>I decided to start blogging again and picked
+<a href="http://octopress.org/">Octopress</a>. While setting up I found some hickups I
+want to document.</p>
+
+<ul>
+<li>You have to build the latest ruby from source via rvm. For strange reasons ruby 1.9.3 didn&#8217;t work for me.</li>
+</ul>
+
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>rvm install ruby-1.9.3-p194</span></code></pre></td></tr></table></div></figure>
+
+
+<ul>
+<li>Don&#8217;t prefix your Twitter name with an &#8220;@&#8221; in _config.yml. It results in an ugly stacktrace stating nonsense.</li>
+</ul>
+
+
+<p>That&#8217;s it. The rest is pretty straight forward.</p>
+]]></content>
+  </entry>
+  
+</feed>
